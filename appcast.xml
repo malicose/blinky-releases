@@ -10,8 +10,8 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <enclosure
                 url="https://github.com/malicose/blinky-releases/releases/download/v1.0/Blinky-1.0.zip"
-                sparkle:edSignature="jheBeuRceW/ZBTJwhpi2jWx4Wut0z0fBnAPlbiQ6QNcTmBwH9IZIFOMGfxM+vYuM3yoD4W0eIkYvH9e71XtGDw=="
-                length="10218542"
+                sparkle:edSignature="KLrFjy4r1g1a/8kB6ePCJCECbJwKgD9KWEwWnk66iPOTsF1pqx5sftHKtSwQVafRY+f7ZOW3v3fr6GB2IXa+Dg=="
+                length="10223985"
                 type="application/octet-stream"/>
         </item>
     </channel>
