@@ -4,6 +4,17 @@
         <title>Blinky</title>
         <link>https://malicose.github.io/blinky-releases/appcast.xml</link>
         <item>
+            <title>Version 1.0.5</title>
+            <pubDate>Wed, 03 Jun 2026 10:20:25 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/malicose/blinky-releases/releases/download/1.0.5/Blinky-1.0.5.zip"
+                sparkle:edSignature="bf4+mnUKLlSfJeSA716TGGTIUkbMZljmpXCpBdE6GXCdiXn/EQkJK+GEQ33+Bw9amQrO4R09uOkrMQL93bDrCw=="
+                length="14660977"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.4</title>
             <pubDate>Sun, 01 Jun 2026 12:00:00 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
